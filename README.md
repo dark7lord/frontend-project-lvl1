@@ -6,9 +6,9 @@
 
 ### Installation
 
-https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd
+[![demo]](https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd?autoplay=1)
 
 ### Start
 
-https://asciinema.org/a/NJF9l4aBKpYb9VTEhvSgwErTL
+[![demo]](https://asciinema.org/a/NJF9l4aBKpYb9VTEhvSgwErTL)
 
