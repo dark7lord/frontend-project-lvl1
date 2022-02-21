@@ -6,10 +6,17 @@
 
 ### Installation
 
-[![demo]](https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd?autoplay=1)
+```sh
+git clone https://github.com/dark7lord/frontend-project-lvl1.git brain-games
+cd brain-games
+make install
+npm link
+```
+
 [![asciicast](https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd.svg)](https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd)
 
 ### Start
-
-[![demo]](https://asciinema.org/a/NJF9l4aBKpYb9VTEhvSgwErTL)
+```sh
+brain-even
+```
 [![asciicast](https://asciinema.org/a/NJF9l4aBKpYb9VTEhvSgwErTL.svg)](https://asciinema.org/a/NJF9l4aBKpYb9VTEhvSgwErTL)
