@@ -7,11 +7,9 @@
 ### Installation
 
 [![demo]](https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd?autoplay=1)
+[![asciicast](https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd.svg)](https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd)
 
 ### Start
 
 [![demo]](https://asciinema.org/a/NJF9l4aBKpYb9VTEhvSgwErTL)
-
-
-### ?
-[![demo](https://asciinema.org/a/335480.svg)](https://asciinema.org/a/335480?autoplay=1)
+[![asciicast](https://asciinema.org/a/NJF9l4aBKpYb9VTEhvSgwErTL.svg)](https://asciinema.org/a/NJF9l4aBKpYb9VTEhvSgwErTL)
