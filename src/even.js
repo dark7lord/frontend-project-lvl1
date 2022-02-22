@@ -1,12 +1,11 @@
-import readlineSync from 'readline-sync';
+import { askToAnswer, greetUser } from './cli.js';
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
 }
 
 export default () => {
-  const name = readlineSync.question('May I have your name? ') || null;
-  console.log(`Hello, ${name}!`);
+  const name = greetUser();
   console.log('Answer "yes" if the number is even, otherwise answer "no".');
   let score = 0;
 
@@ -14,8 +13,7 @@ export default () => {
     const num = getRandomInt(100);
     const trueAnswer = (num % 2 === 0) ? 'yes' : 'no';
 
-    console.log(`Question: ${num}`);
-    const answer = readlineSync.question('Your answer: ');
+    const answer = askToAnswer(num);
 
     if (answer === trueAnswer) {
       console.log('Correct!');

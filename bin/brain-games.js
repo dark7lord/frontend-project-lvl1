@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import cli from '../src/cli.js';
+import { greetUser, welcome } from '../src/cli.js';
 
-console.log('Welcome to the Brain Even!');
-cli();
+welcome();
+greetUser();
