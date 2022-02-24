@@ -1,4 +1,4 @@
-import { getRandomInt, playGame } from './index.js';
+import { getRandomInt, playGame } from '../index.js';
 
 export default () => {
   const operations = ['+', '-', '*'];
