@@ -1,9 +1,6 @@
 import { askToAnswer, greetUser, welcome } from './cli.js';
 
-
-export const getRandomInt = (max) => {
-  return Math.floor(Math.random() * max);
-}
+export const getRandomInt = (max) => Math.floor(Math.random() * max);
 
 export const playGame = (instruction, getData, getPattern, getTrueAnswer) => {
   welcome();
@@ -17,17 +14,15 @@ export const playGame = (instruction, getData, getPattern, getTrueAnswer) => {
     const answer = askToAnswer(expression);
     const trueAnswer = getTrueAnswer(data);
 
-    if (answer == trueAnswer) {
+    if (answer === `${trueAnswer}`) {
       console.log('Correct!');
       score += 1;
     } else {
       console.log(`'${answer}' is wrong answer ;(. Correct answer was ${trueAnswer}.`);
       console.log(`Let's try again, ${name}!`);
-      break;
+      return;
     }
   }
 
-  if (score === 3) {
-    console.log(`Congratulations, ${name}!`);
-  }
+  console.log(`Congratulations, ${name}!`);
 };
