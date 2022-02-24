@@ -15,8 +15,15 @@ npm link
 
 [![asciicast](https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd.svg)](https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd)
 
-### Start
+### Start and playing
+## Even
 ```sh
 brain-even
 ```
 [![asciicast](https://asciinema.org/a/NJF9l4aBKpYb9VTEhvSgwErTL.svg)](https://asciinema.org/a/NJF9l4aBKpYb9VTEhvSgwErTL)
+
+## Calc
+```sh
+brain-cal
+```
+[![asciicast](https://asciinema.org/a/BmwTcI5n1zcy4lS3gPoUoc0NI.svg)](https://asciinema.org/a/BmwTcI5n1zcy4lS3gPoUoc0NI)
