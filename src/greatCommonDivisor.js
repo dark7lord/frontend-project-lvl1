@@ -1,12 +1,12 @@
 const gcd = (a, b) => {
-    let x = a;
-    let y = b;
+  let x = a;
+  let y = b;
 
-    if (y > x) {
-      [x, y] = [y, x];
-    }
+  if (y > x) {
+    [x, y] = [y, x];
+  }
 
-    return (y) ? gcd(y, x % y) : x;
-  };
+  return (y) ? gcd(y, x % y) : x;
+};
 
-  export default gcd;
+export default gcd;

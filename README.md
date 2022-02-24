@@ -32,4 +32,4 @@ brain-calc
 ```sh
 brain-gcd
 ```
-
+[![asciicast](https://asciinema.org/a/PXAls0S66U8F4irxjc8tQlxrV.svg)](https://asciinema.org/a/PXAls0S66U8F4irxjc8tQlxrV)
