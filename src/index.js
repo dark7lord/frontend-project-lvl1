@@ -11,8 +11,8 @@ export const playGame = (instruction, getData, getPattern, getTrueAnswer) => {
   while (score < 3) {
     const data = getData();
     const expression = getPattern(data);
-    const answer = askToAnswer(expression);
     const trueAnswer = getTrueAnswer(data);
+    const answer = askToAnswer(expression);
 
     if (answer === `${trueAnswer}`) {
       console.log('Correct!');

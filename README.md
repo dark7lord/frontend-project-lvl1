@@ -27,3 +27,9 @@ brain-even
 brain-calc
 ```
 [![asciicast](https://asciinema.org/a/BmwTcI5n1zcy4lS3gPoUoc0NI.svg)](https://asciinema.org/a/BmwTcI5n1zcy4lS3gPoUoc0NI)
+
+## Greatest Common Divisor (GCD)
+```sh
+brain-gcd
+```
+
