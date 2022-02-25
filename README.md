@@ -40,3 +40,9 @@ brain-gcd
 brain-progression
 ```
 [![asciicast](https://asciinema.org/a/O2TKA3FZZsreS9cycPHsKfofR.svg)](https://asciinema.org/a/O2TKA3FZZsreS9cycPHsKfofR)
+
+## Prime
+```sh
+brain-prime
+```
+[![asciicast](https://asciinema.org/a/K7U2xtNDrPnjit01LmpPUmkxn.svg)](https://asciinema.org/a/K7U2xtNDrPnjit01LmpPUmkxn)
