@@ -10,7 +10,7 @@
 git clone https://github.com/dark7lord/frontend-project-lvl1.git brain-games
 cd brain-games
 make install
-npm link
+sudo npm link
 ```
 
 [![asciicast](https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd.svg)](https://asciinema.org/a/O5bmZeKWDHhIKKmsBHUBauASd)
