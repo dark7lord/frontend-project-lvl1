@@ -39,4 +39,4 @@ brain-gcd
 ```sh
 brain-progression
 ```
-
+[![asciicast](https://asciinema.org/a/O2TKA3FZZsreS9cycPHsKfofR.svg)](https://asciinema.org/a/O2TKA3FZZsreS9cycPHsKfofR)
